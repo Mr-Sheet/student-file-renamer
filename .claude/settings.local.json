@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python -c \"import pandas as pd; df = pd.read_excel\\(r'd:\\\\����\\\\Homework\\\\students.xlsx'\\); print\\(df.to_string\\(\\)\\)\")"
+    ]
+  }
+}
