@@ -3,4 +3,6 @@ build/
 dist/
 logs/
 files/
+.claude/
 *.xlsx
+.claude/
